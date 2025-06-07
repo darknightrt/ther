@@ -14,11 +14,7 @@ node app.js
 
 ## TTS文字转语音功能
 
-https://github.com/v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber/assets/1288038/c6ef2170-bdc2-4ed0-a11c-fdbe59da63a8
-
 ## 大模型语音聊天页面
-
-https://github.com/v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber/assets/1288038/91b31e27-1d73-420f-bae7-fd392a18aaee
 
 
 
